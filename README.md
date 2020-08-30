@@ -1,7 +1,7 @@
 # ue-procedural-limbs
 Procedural animation for insectoid limbs (WIP) brought to UE4 **inspired by [/u/happygamedev](https://old.reddit.com/user/happygamedev)'s post on reddit.**
 
-Only the root component of an actor is being translated in world-space and the limbs are automatically animated accordingly using IK.
+Only the root component of an actor needs to be translated in world-space. The limbs are automatically animated accordingly using IK.
 The body also reacts automatically to the limb movement by leaning and (spring-based) raising/lowering.
 
 # Demo
